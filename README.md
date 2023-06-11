@@ -12,8 +12,9 @@ To create a Birthday card using HTML and CSS
   
 4. Use paragraph tag to disply the personalised greeting. Add an image element to display a birthday-themed image.
 
-## CODE:
 
+### BIRTHDAY.HTML
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,13 +40,10 @@ To create a Birthday card using HTML and CSS
 </center>
 </html>
 
-### BIRTHDAY.HTML
-```
-
-
 ```
 ## OUTPUT:
 
+![IMG-20230611-WA0058](https://github.com/Shinysudhakar/bday-card/assets/127575325/555b372d-624f-4824-b9cc-b0c9d556633a)
 
 
 
